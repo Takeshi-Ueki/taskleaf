@@ -1,0 +1,21 @@
+current directory: /Users/takeshi/Desktop/work/rails/taskleaf/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/takeshi/.rbenv/versions/3.0.4/bin/ruby -I /Users/takeshi/.rbenv/versions/3.0.4/lib/ruby/site_ruby/3.0.0 extconf.rb
+creating Makefile
+
+current directory: /Users/takeshi/Desktop/work/rails/taskleaf/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20220809-4877-zeq291 sitelibdir\=./.gem.20220809-4877-zeq291 clean
+objc[4904]: Class AppleTypeCRetimerRestoreInfoHelper is implemented in both /usr/lib/libauthinstall.dylib (0x21d327458) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x103dc44f8). One of the two will be used. Which one is undefined.
+objc[4904]: Class AppleTypeCRetimerFirmwareAggregateRequestCreator is implemented in both /usr/lib/libauthinstall.dylib (0x21d3274a8) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x103dc4548). One of the two will be used. Which one is undefined.
+objc[4904]: Class AppleTypeCRetimerFirmwareRequestCreator is implemented in both /usr/lib/libauthinstall.dylib (0x21d3274f8) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x103dc4598). One of the two will be used. Which one is undefined.
+objc[4904]: Class ATCRTRestoreInfoFTABFile is implemented in both /usr/lib/libauthinstall.dylib (0x21d327548) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x103dc45e8). One of the two will be used. Which one is undefined.
+objc[4904]: Class AppleTypeCRetimerFirmwareCopier is implemented in both /usr/lib/libauthinstall.dylib (0x21d327598) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x103dc4638). One of the two will be used. Which one is undefined.
+objc[4904]: Class ATCRTRestoreInfoFTABSubfile is implemented in both /usr/lib/libauthinstall.dylib (0x21d3275e8) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x103dc4688). One of the two will be used. Which one is undefined.
+
+current directory: /Users/takeshi/Desktop/work/rails/taskleaf/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20220809-4877-zeq291 sitelibdir\=./.gem.20220809-4877-zeq291
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/takeshi/Desktop/work/rails/taskleaf/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20220809-4877-zeq291 sitelibdir\=./.gem.20220809-4877-zeq291 install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20220809-4877-zeq291/skiptrace/internal

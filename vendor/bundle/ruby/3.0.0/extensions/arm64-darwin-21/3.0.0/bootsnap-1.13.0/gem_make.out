@@ -1,0 +1,15 @@
+current directory: /Users/takeshi/Desktop/work/rails/taskleaf/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.13.0/ext/bootsnap
+/Users/takeshi/.rbenv/versions/3.0.4/bin/ruby -I /Users/takeshi/.rbenv/versions/3.0.4/lib/ruby/site_ruby/3.0.0 extconf.rb
+creating Makefile
+
+current directory: /Users/takeshi/Desktop/work/rails/taskleaf/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.13.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20220809-4877-1nwrxy sitelibdir\=./.gem.20220809-4877-1nwrxy clean
+
+current directory: /Users/takeshi/Desktop/work/rails/taskleaf/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.13.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20220809-4877-1nwrxy sitelibdir\=./.gem.20220809-4877-1nwrxy
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/takeshi/Desktop/work/rails/taskleaf/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.13.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20220809-4877-1nwrxy sitelibdir\=./.gem.20220809-4877-1nwrxy install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20220809-4877-1nwrxy/bootsnap

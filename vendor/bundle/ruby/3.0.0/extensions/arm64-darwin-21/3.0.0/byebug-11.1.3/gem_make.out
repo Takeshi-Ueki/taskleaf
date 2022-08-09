@@ -1,0 +1,25 @@
+current directory: /Users/takeshi/Desktop/work/rails/taskleaf/vendor/bundle/ruby/3.0.0/gems/byebug-11.1.3/ext/byebug
+/Users/takeshi/.rbenv/versions/3.0.4/bin/ruby -I /Users/takeshi/.rbenv/versions/3.0.4/lib/ruby/site_ruby/3.0.0 extconf.rb
+creating Makefile
+
+current directory: /Users/takeshi/Desktop/work/rails/taskleaf/vendor/bundle/ruby/3.0.0/gems/byebug-11.1.3/ext/byebug
+make DESTDIR\= sitearchdir\=./.gem.20220809-4877-iaxdld sitelibdir\=./.gem.20220809-4877-iaxdld clean
+objc[4922]: Class AppleTypeCRetimerRestoreInfoHelper is implemented in both /usr/lib/libauthinstall.dylib (0x21d327458) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x1065cc4f8). One of the two will be used. Which one is undefined.
+objc[4922]: Class AppleTypeCRetimerFirmwareAggregateRequestCreator is implemented in both /usr/lib/libauthinstall.dylib (0x21d3274a8) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x1065cc548). One of the two will be used. Which one is undefined.
+objc[4922]: Class AppleTypeCRetimerFirmwareRequestCreator is implemented in both /usr/lib/libauthinstall.dylib (0x21d3274f8) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x1065cc598). One of the two will be used. Which one is undefined.
+objc[4922]: Class ATCRTRestoreInfoFTABFile is implemented in both /usr/lib/libauthinstall.dylib (0x21d327548) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x1065cc5e8). One of the two will be used. Which one is undefined.
+objc[4922]: Class AppleTypeCRetimerFirmwareCopier is implemented in both /usr/lib/libauthinstall.dylib (0x21d327598) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x1065cc638). One of the two will be used. Which one is undefined.
+objc[4922]: Class ATCRTRestoreInfoFTABSubfile is implemented in both /usr/lib/libauthinstall.dylib (0x21d3275e8) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x1065cc688). One of the two will be used. Which one is undefined.
+
+current directory: /Users/takeshi/Desktop/work/rails/taskleaf/vendor/bundle/ruby/3.0.0/gems/byebug-11.1.3/ext/byebug
+make DESTDIR\= sitearchdir\=./.gem.20220809-4877-iaxdld sitelibdir\=./.gem.20220809-4877-iaxdld
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/takeshi/Desktop/work/rails/taskleaf/vendor/bundle/ruby/3.0.0/gems/byebug-11.1.3/ext/byebug
+make DESTDIR\= sitearchdir\=./.gem.20220809-4877-iaxdld sitelibdir\=./.gem.20220809-4877-iaxdld install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20220809-4877-iaxdld/byebug
