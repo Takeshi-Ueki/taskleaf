@@ -1,0 +1,33 @@
+current directory: /Users/takeshi/Desktop/work/rails/taskleaf/vendor/bundle/ruby/3.0.0/gems/rinku-2.0.6/ext/rinku
+/Users/takeshi/.rbenv/versions/3.0.4/bin/ruby -I /Users/takeshi/.rbenv/versions/3.0.4/lib/ruby/site_ruby/3.0.0 extconf.rb
+creating Makefile
+
+current directory: /Users/takeshi/Desktop/work/rails/taskleaf/vendor/bundle/ruby/3.0.0/gems/rinku-2.0.6/ext/rinku
+make DESTDIR\= sitearchdir\=./.gem.20220816-10881-w4tz23 sitelibdir\=./.gem.20220816-10881-w4tz23 clean
+objc[10904]: Class AppleTypeCRetimerRestoreInfoHelper is implemented in both /usr/lib/libauthinstall.dylib (0x2034a3458) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x1046304f8). One of the two will be used. Which one is undefined.
+objc[10904]: Class AppleTypeCRetimerFirmwareAggregateRequestCreator is implemented in both /usr/lib/libauthinstall.dylib (0x2034a34a8) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x104630548). One of the two will be used. Which one is undefined.
+objc[10904]: Class AppleTypeCRetimerFirmwareRequestCreator is implemented in both /usr/lib/libauthinstall.dylib (0x2034a34f8) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x104630598). One of the two will be used. Which one is undefined.
+objc[10904]: Class ATCRTRestoreInfoFTABFile is implemented in both /usr/lib/libauthinstall.dylib (0x2034a3548) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x1046305e8). One of the two will be used. Which one is undefined.
+objc[10904]: Class AppleTypeCRetimerFirmwareCopier is implemented in both /usr/lib/libauthinstall.dylib (0x2034a3598) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x104630638). One of the two will be used. Which one is undefined.
+objc[10904]: Class ATCRTRestoreInfoFTABSubfile is implemented in both /usr/lib/libauthinstall.dylib (0x2034a35e8) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x104630688). One of the two will be used. Which one is undefined.
+
+current directory: /Users/takeshi/Desktop/work/rails/taskleaf/vendor/bundle/ruby/3.0.0/gems/rinku-2.0.6/ext/rinku
+make DESTDIR\= sitearchdir\=./.gem.20220816-10881-w4tz23 sitelibdir\=./.gem.20220816-10881-w4tz23
+compiling autolink.c
+objc[10962]: Class AppleTypeCRetimerRestoreInfoHelper is implemented in both /usr/lib/libauthinstall.dylib (0x2034a3458) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x105eb84f8). One of the two will be used. Which one is undefined.
+objc[10962]: Class AppleTypeCRetimerFirmwareAggregateRequestCreator is implemented in both /usr/lib/libauthinstall.dylib (0x2034a34a8) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x105eb8548). One of the two will be used. Which one is undefined.
+objc[10962]: Class AppleTypeCRetimerFirmwareRequestCreator is implemented in both /usr/lib/libauthinstall.dylib (0x2034a34f8) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x105eb8598). One of the two will be used. Which one is undefined.
+objc[10962]: Class ATCRTRestoreInfoFTABFile is implemented in both /usr/lib/libauthinstall.dylib (0x2034a3548) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x105eb85e8). One of the two will be used. Which one is undefined.
+objc[10962]: Class AppleTypeCRetimerFirmwareCopier is implemented in both /usr/lib/libauthinstall.dylib (0x2034a3598) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x105eb8638). One of the two will be used. Which one is undefined.
+objc[10962]: Class ATCRTRestoreInfoFTABSubfile is implemented in both /usr/lib/libauthinstall.dylib (0x2034a35e8) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x105eb8688). One of the two will be used. Which one is undefined.
+2022-08-16 14:39:20.841 xcodebuild[10962:104639] Requested but did not find extension point with identifier Xcode.IDEKit.ExtensionSentinelHostApplications for extension Xcode.DebuggerFoundation.AppExtensionHosts.watchOS of plug-in com.apple.dt.IDEWatchSupportCore
+2022-08-16 14:39:20.841 xcodebuild[10962:104639] Requested but did not find extension point with identifier Xcode.IDEKit.ExtensionPointIdentifierToBundleIdentifier for extension Xcode.DebuggerFoundation.AppExtensionToBundleIdentifierMap.watchOS of plug-in com.apple.dt.IDEWatchSupportCore
+compiling buffer.c
+compiling rinku.c
+compiling rinku_rb.c
+compiling utf8.c
+linking shared-object rinku.bundle
+
+current directory: /Users/takeshi/Desktop/work/rails/taskleaf/vendor/bundle/ruby/3.0.0/gems/rinku-2.0.6/ext/rinku
+make DESTDIR\= sitearchdir\=./.gem.20220816-10881-w4tz23 sitelibdir\=./.gem.20220816-10881-w4tz23 install
+/usr/bin/install -c -m 0755 rinku.bundle ./.gem.20220816-10881-w4tz23
