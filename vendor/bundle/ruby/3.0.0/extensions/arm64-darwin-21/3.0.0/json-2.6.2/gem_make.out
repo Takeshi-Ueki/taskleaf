@@ -1,0 +1,13 @@
+current directory: /Users/takeshi/Desktop/work/rails/taskleaf/vendor/bundle/ruby/3.0.0/gems/json-2.6.2/ext/json
+/Users/takeshi/.rbenv/versions/3.0.4/bin/ruby -I /Users/takeshi/.rbenv/versions/3.0.4/lib/ruby/site_ruby/3.0.0 extconf.rb
+creating Makefile
+
+current directory: /Users/takeshi/Desktop/work/rails/taskleaf/vendor/bundle/ruby/3.0.0/gems/json-2.6.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20220820-7582-8i0jug sitelibdir\=./.gem.20220820-7582-8i0jug clean
+
+current directory: /Users/takeshi/Desktop/work/rails/taskleaf/vendor/bundle/ruby/3.0.0/gems/json-2.6.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20220820-7582-8i0jug sitelibdir\=./.gem.20220820-7582-8i0jug
+make: Nothing to be done for `all'.
+
+current directory: /Users/takeshi/Desktop/work/rails/taskleaf/vendor/bundle/ruby/3.0.0/gems/json-2.6.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20220820-7582-8i0jug sitelibdir\=./.gem.20220820-7582-8i0jug install
