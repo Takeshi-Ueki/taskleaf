@@ -10,7 +10,11 @@ Rails.application.routes.draw do
   root 'tasks#index'
 
   post 'tasks/confirm' => 'tasks#confirm', as: 'task_confirm'
-  resources :tasks
+  # post 'tasks/import' => 'tasks#import', as: 'task_import'
+
+  resources :tasks do
+    post :import, on: :collection
+  end
 
   # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html
 end
